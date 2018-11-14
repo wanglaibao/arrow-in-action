@@ -30,7 +30,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <kotlin.version>1.3.0</kotlin.version>
-        <arrow-kt.version>0.8.1</arrow-kt.version>
+        <arrow-kt.version>0.8.0</arrow-kt.version>
         <junit.version>4.12</junit.version>
     </properties>
 
